@@ -1,2 +1,2 @@
-# BangSitee
-this is a sample site
+# BANG-SITE
+LAYOUT
