@@ -11465,3 +11465,7 @@ background-color: rgb(246, 200, 41)
 .service-box:hover {
     box-shadow: 0 0 11px rgba(33,33,33,.2); 
 }
+
+.logobang{
+	height: 4rem;
+}
