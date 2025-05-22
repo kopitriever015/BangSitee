@@ -11469,3 +11469,38 @@ background-color: rgb(246, 200, 41)
 .logobang{
 	height: 4rem;
 }
+
+.faq-option{
+	text-align: Start;
+	margin-top: 3rem;
+	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	letter-spacing: 0.0625em;
+	color: #fd7e14;
+}
+
+.faq-question{
+	text-align: Start !important;
+	font-size: x-large;
+	font-weight: bold;
+	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	letter-spacing: 0.0625em;
+	Color: rgb(18, 51, 88);
+}	
+
+.faq-answer{
+	text-align: justify;
+}
+
+.faq-div{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.faq-logo{
+	height: 17rem !important;
+    margin-top: -8rem;
+}
+
+.faq-header{
+	margin-top: -4rem
+}
